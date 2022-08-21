@@ -3,7 +3,7 @@
 
 Установка:
 ```
-git clone https://github.com/DenisKor2208/.git
+git clone https://github.com/DenisKor2208/macro_test.git
 ```
 Для загрузки дополнительных компонентов в терминале вызвать команду:
 ```
